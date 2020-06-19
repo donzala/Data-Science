@@ -1,0 +1,483 @@
+2020-02-09 17:17:06.792 -- Start of Main class
+2020-02-09 17:17:06.793 -- Initialization of output File
+2020-02-09 17:17:06.794 -- Overriding the System.out operation to output the result in  File 
+2020-02-09 17:17:06.795 -- Executing the commands 
+2020-02-09 17:21:12.654 -- Start of Main class
+2020-02-09 17:21:12.657 -- Initialization of output File
+2020-02-09 17:21:12.657 -- Overriding the System.out operation to output the result in  File 
+2020-02-09 17:21:12.659 -- Executing the commands 
+2020-02-09 17:34:03.363 -- Start of Main class
+2020-02-09 17:34:03.364 -- Initialization of output File
+2020-02-09 17:34:03.364 -- Overriding the System.out operation to output the result in  File 
+2020-02-09 17:34:03.366 -- Executing the commands 
+2020-02-09 17:34:03.366 -- Inside Add User method for Thomas
+2020-02-09 17:34:03.366 -- Inside Add User method for AmirAli
+2020-02-09 17:34:03.367 -- Inside Add User method for Rabih
+2020-02-09 17:34:03.367 -- Inside Add List method for Code
+2020-02-09 17:34:03.367 -- Inside Add List method for Description
+2020-02-09 17:34:03.367 -- Inside Add List method for Misc
+2020-02-09 17:34:03.367 -- Inside Add Task method for Do Everything
+2020-02-09 17:34:03.368 -- Inside Edit Task method for Do Everything
+2020-02-09 17:34:03.368 -- Inside Assign Task method for Do Everything
+2020-02-09 17:34:03.368 -- Inside Print Task method for Do Everything
+2020-02-09 17:34:03.368 -- Inside Add Task method for Destroy code formatting
+2020-02-09 17:34:03.369 -- Inside Assign Task method for Destroy code formatting
+2020-02-09 17:34:03.369 -- Inside Add Task method for Write Description
+2020-02-09 17:34:03.369 -- Inside Assign Task method for Write Description
+2020-02-09 17:34:03.369 -- Inside Add Task method for Upload Assignment
+2020-02-09 17:34:03.369 -- Inside Complete Task method for Do Everything
+2020-02-09 17:34:03.370 -- Inside print Users by Performance method 
+2020-02-09 17:34:03.377 -- Inside print user by work load method
+2020-02-09 17:34:03.377 -- Inside user workload calculation method for Thomas
+2020-02-09 17:34:03.377 -- Inside user workload calculation method for AmirAli
+2020-02-09 17:34:03.377 -- Inside user workload calculation method for Rabih
+2020-02-09 17:34:03.378 -- Inside print unassigned tasks by priority
+2020-02-09 17:34:03.378 -- Inside Delete Task method for Upload Assignment
+2020-02-09 17:34:03.379 -- Inside print all unfinished tasks by priority
+2020-02-09 17:34:03.379 -- Inside Add Task method for Have fun
+2020-02-09 17:34:03.379 -- Inside move Task method for Have fun
+2020-02-09 17:34:03.379 -- Inside Print Task method for Have fun
+2020-02-09 17:34:03.379 -- Inside Print list method for Code
+2020-02-09 17:34:03.380 -- Inside print all lists method
+2020-02-09 17:34:03.380 -- Inside print User tasks for AmirAli
+2020-02-09 17:34:03.380 -- Inside print unassigned tasks by priority
+2020-02-09 17:34:03.380 -- Inside print all unfinished tasks by priority
+2020-02-09 18:00:04.885 -- Start of Main class
+2020-02-09 18:00:04.888 -- Initialization of output File
+2020-02-09 18:00:04.889 -- Overriding the System.out operation to output the result in  File 
+2020-02-09 18:00:04.890 -- Executing the commands 
+2020-02-09 18:00:04.890 -- Inside Add User method for Thomas
+2020-02-09 18:00:04.891 -- Inside Add User method for AmirAli
+2020-02-09 18:00:04.891 -- Inside Add User method for Rabih
+2020-02-09 18:00:04.891 -- Inside Add List method for Code
+2020-02-09 18:00:04.891 -- Inside Add List method for Description
+2020-02-09 18:00:04.891 -- Inside Add List method for Misc
+2020-02-09 18:00:04.891 -- Inside Add Task method for Do Everything
+2020-02-09 18:00:04.892 -- Inside Edit Task method for Do Everything
+2020-02-09 18:00:04.892 -- Inside Assign Task method for Do Everything
+2020-02-09 18:00:04.892 -- Inside Print Task method for Do Everything
+2020-02-09 18:00:04.893 -- Inside Add Task method for Destroy code formatting
+2020-02-09 18:00:04.893 -- Inside Assign Task method for Destroy code formatting
+2020-02-09 18:00:04.893 -- Inside Add Task method for Write Description
+2020-02-09 18:00:04.893 -- Inside Assign Task method for Write Description
+2020-02-09 18:00:04.893 -- Inside Add Task method for Upload Assignment
+2020-02-09 18:00:04.894 -- Inside Complete Task method for Do Everything
+2020-02-09 18:00:04.894 -- Inside print Users by Performance method 
+2020-02-09 18:00:04.903 -- Inside print user by work load method
+2020-02-09 18:00:04.903 -- Inside user workload calculation method for Thomas
+2020-02-09 18:00:04.903 -- Inside user workload calculation method for AmirAli
+2020-02-09 18:00:04.903 -- Inside user workload calculation method for Rabih
+2020-02-09 18:00:04.904 -- Inside print unassigned tasks by priority
+2020-02-09 18:00:04.904 -- Inside Delete Task method for Upload Assignment
+2020-02-09 18:00:04.904 -- Inside print all unfinished tasks by priority
+2020-02-09 18:00:04.905 -- Inside Add Task method for Have fun
+2020-02-09 18:00:04.905 -- Inside move Task method for Have fun
+2020-02-09 18:00:04.905 -- Inside Print Task method for Have fun
+2020-02-09 18:00:04.905 -- Inside Print list method for Code
+2020-02-09 18:00:04.905 -- Inside print all lists method
+2020-02-09 18:00:04.906 -- Inside print User tasks for AmirAli
+2020-02-09 18:00:04.906 -- Inside print unassigned tasks by priority
+2020-02-09 18:00:04.906 -- Inside print all unfinished tasks by priority
+2020-02-09 18:00:16.235 -- Start of Main class
+2020-02-09 18:00:16.236 -- Initialization of output File
+2020-02-09 18:00:16.236 -- Overriding the System.out operation to output the result in  File 
+2020-02-09 18:00:16.238 -- Executing the commands 
+2020-02-09 18:00:16.238 -- Inside Add User method for Thomas
+2020-02-09 18:00:16.239 -- Inside Add User method for AmirAli
+2020-02-09 18:00:16.239 -- Inside Add User method for Rabih
+2020-02-09 18:00:16.239 -- Inside Add List method for Code
+2020-02-09 18:00:16.239 -- Inside Add List method for Description
+2020-02-09 18:00:16.240 -- Inside Add List method for Misc
+2020-02-09 18:00:16.240 -- Inside Add Task method for Do Everything
+2020-02-09 18:00:16.241 -- Inside Edit Task method for Do Everything
+2020-02-09 18:00:16.241 -- Inside Assign Task method for Do Everything
+2020-02-09 18:00:16.241 -- Inside Print Task method for Do Everything
+2020-02-09 18:00:16.242 -- Inside Add Task method for Destroy code formatting
+2020-02-09 18:00:16.242 -- Inside Assign Task method for Destroy code formatting
+2020-02-09 18:00:16.242 -- Inside Add Task method for Write Description
+2020-02-09 18:00:16.242 -- Inside Assign Task method for Write Description
+2020-02-09 18:00:16.242 -- Inside Add Task method for Upload Assignment
+2020-02-09 18:00:16.243 -- Inside Complete Task method for Do Everything
+2020-02-09 18:00:16.243 -- Inside print Users by Performance method 
+2020-02-09 18:00:16.251 -- Inside print user by work load method
+2020-02-09 18:00:16.251 -- Inside user workload calculation method for Thomas
+2020-02-09 18:00:16.252 -- Inside user workload calculation method for AmirAli
+2020-02-09 18:00:16.252 -- Inside user workload calculation method for Rabih
+2020-02-09 18:00:16.252 -- Inside print unassigned tasks by priority
+2020-02-09 18:00:16.253 -- Inside Delete Task method for Upload Assignment
+2020-02-09 18:00:16.253 -- Inside print all unfinished tasks by priority
+2020-02-09 18:00:16.254 -- Inside Add Task method for Have fun
+2020-02-09 18:00:16.254 -- Inside move Task method for Have fun
+2020-02-09 18:00:16.254 -- Inside Print Task method for Have fun
+2020-02-09 18:00:16.254 -- Inside Print list method for Code
+2020-02-09 18:00:16.255 -- Inside print all lists method
+2020-02-09 18:00:16.255 -- Inside print User tasks for AmirAli
+2020-02-09 18:00:16.255 -- Inside print unassigned tasks by priority
+2020-02-09 18:00:16.255 -- Inside print all unfinished tasks by priority
+2020-02-09 18:00:50.342 -- Start of Main class
+2020-02-09 18:00:50.342 -- Initialization of output File
+2020-02-09 18:00:50.343 -- Overriding the System.out operation to output the result in  File 
+2020-02-09 18:00:50.344 -- Executing the commands 
+2020-02-09 18:00:50.344 -- Inside Add User method for Thomas
+2020-02-09 18:00:50.344 -- Inside Add User method for AmirAli
+2020-02-09 18:00:50.344 -- Inside Add User method for Rabih
+2020-02-09 18:00:50.345 -- Inside Add List method for Code
+2020-02-09 18:00:50.345 -- Inside Add List method for Description
+2020-02-09 18:00:50.345 -- Inside Add List method for Misc
+2020-02-09 18:00:50.345 -- Inside Add Task method for Do Everything
+2020-02-09 18:00:50.346 -- Inside Edit Task method for Do Everything
+2020-02-09 18:00:50.346 -- Inside Assign Task method for Do Everything
+2020-02-09 18:00:50.346 -- Inside Print Task method for Do Everything
+2020-02-09 18:00:50.346 -- Inside Add Task method for Destroy code formatting
+2020-02-09 18:00:50.346 -- Inside Assign Task method for Destroy code formatting
+2020-02-09 18:00:50.347 -- Inside Add Task method for Write Description
+2020-02-09 18:00:50.347 -- Inside Assign Task method for Write Description
+2020-02-09 18:00:50.347 -- Inside Add Task method for Upload Assignment
+2020-02-09 18:00:50.347 -- Inside Complete Task method for Do Everything
+2020-02-09 18:00:50.347 -- Inside print Users by Performance method 
+2020-02-09 18:00:50.356 -- Inside print user by work load method
+2020-02-09 18:00:50.356 -- Inside user workload calculation method for Thomas
+2020-02-09 18:00:50.356 -- Inside user workload calculation method for AmirAli
+2020-02-09 18:00:50.356 -- Inside user workload calculation method for Rabih
+2020-02-09 18:00:50.357 -- Inside print unassigned tasks by priority
+2020-02-09 18:00:50.357 -- Inside Delete Task method for Upload Assignment
+2020-02-09 18:00:50.357 -- Inside print all unfinished tasks by priority
+2020-02-09 18:00:50.358 -- Inside Add Task method for Have fun
+2020-02-09 18:00:50.358 -- Inside move Task method for Have fun
+2020-02-09 18:00:50.358 -- Inside Print Task method for Have fun
+2020-02-09 18:00:50.358 -- Inside Print list method for Code
+2020-02-09 18:00:50.359 -- Inside print all lists method
+2020-02-09 18:00:50.359 -- Inside print User tasks for AmirAli
+2020-02-09 18:00:50.359 -- Inside print unassigned tasks by priority
+2020-02-09 18:00:50.359 -- Inside print all unfinished tasks by priority
+2020-02-09 18:02:57.742 -- Start of Main class
+2020-02-09 18:02:57.743 -- Initialization of output File
+2020-02-09 18:02:57.743 -- Overriding the System.out operation to output the result in  File 
+2020-02-09 18:02:57.745 -- Executing the commands 
+2020-02-09 18:02:57.745 -- Inside Add User method for Thomas
+2020-02-09 18:02:57.745 -- Inside Add User method for AmirAli
+2020-02-09 18:02:57.745 -- Inside Add User method for Rabih
+2020-02-09 18:02:57.745 -- Inside Add List method for Code
+2020-02-09 18:02:57.746 -- Inside Add List method for Description
+2020-02-09 18:02:57.746 -- Inside Add List method for Misc
+2020-02-09 18:02:57.746 -- Inside Add Task method for Do Everything
+2020-02-09 18:02:57.747 -- Inside Edit Task method for Do Everything
+2020-02-09 18:02:57.747 -- Inside Assign Task method for Do Everything
+2020-02-09 18:02:57.747 -- Inside Print Task method for Do Everything
+2020-02-09 18:02:57.747 -- Inside Add Task method for Destroy code formatting
+2020-02-09 18:02:57.748 -- Inside Assign Task method for Destroy code formatting
+2020-02-09 18:02:57.748 -- Inside Add Task method for Write Description
+2020-02-09 18:02:57.748 -- Inside Assign Task method for Write Description
+2020-02-09 18:02:57.748 -- Inside Add Task method for Upload Assignment
+2020-02-09 18:02:57.748 -- Inside Complete Task method for Do Everything
+2020-02-09 18:02:57.748 -- Inside print Users by Performance method 
+2020-02-09 18:02:57.756 -- Inside print user by work load method
+2020-02-09 18:02:57.756 -- Inside user workload calculation method for Thomas
+2020-02-09 18:02:57.756 -- Inside user workload calculation method for AmirAli
+2020-02-09 18:02:57.756 -- Inside user workload calculation method for Rabih
+2020-02-09 18:02:57.757 -- Inside print unassigned tasks by priority
+2020-02-09 18:02:57.757 -- Inside Delete Task method for Upload Assignment
+2020-02-09 18:02:57.757 -- Inside print all unfinished tasks by priority
+2020-02-09 18:02:57.758 -- Inside Add Task method for Have fun
+2020-02-09 18:02:57.758 -- Inside move Task method for Have fun
+2020-02-09 18:02:57.758 -- Inside Print Task method for Have fun
+2020-02-09 18:02:57.758 -- Inside Print list method for Code
+2020-02-09 18:02:57.758 -- Inside print all lists method
+2020-02-09 18:02:57.758 -- Inside print User tasks for AmirAli
+2020-02-09 18:02:57.759 -- Inside print unassigned tasks by priority
+2020-02-09 18:02:57.759 -- Inside print all unfinished tasks by priority
+2020-02-09 20:14:17.986 -- Start of Main class
+2020-02-09 20:14:17.989 -- Initialization of output File
+2020-02-09 20:14:17.989 -- Overriding the System.out operation to output the result in  File 
+2020-02-09 20:14:17.991 -- Executing the commands 
+2020-02-09 20:14:17.991 -- Inside Add User method for Thomas
+2020-02-09 20:14:47.911 -- Start of Main class
+2020-02-09 20:14:47.912 -- Initialization of output File
+2020-02-09 20:14:47.912 -- Overriding the System.out operation to output the result in  File 
+2020-02-09 20:14:47.913 -- Executing the commands 
+2020-02-09 20:14:47.913 -- Inside Add User method for Thomas
+2020-02-09 20:15:02.948 -- Start of Main class
+2020-02-09 20:15:02.949 -- Initialization of output File
+2020-02-09 20:15:02.949 -- Overriding the System.out operation to output the result in  File 
+2020-02-09 20:15:02.950 -- Executing the commands 
+2020-02-09 20:15:02.950 -- Inside Add User method for Thomas
+2020-02-09 20:20:22.274 -- Start of Main class
+2020-02-09 20:20:22.277 -- Initialization of output File
+2020-02-09 20:20:22.277 -- Overriding the System.out operation to output the result in  File 
+2020-02-09 20:20:22.278 -- Executing the commands 
+2020-02-09 20:20:22.278 -- Inside Add User method for Thomas
+2020-02-09 20:20:44.978 -- Start of Main class
+2020-02-09 20:20:44.979 -- Initialization of output File
+2020-02-09 20:20:44.979 -- Overriding the System.out operation to output the result in  File 
+2020-02-09 20:20:44.980 -- Executing the commands 
+2020-02-09 20:20:44.980 -- Inside Add User method for Thomas
+2020-02-09 20:22:56.367 -- Start of Main class
+2020-02-09 20:22:56.370 -- Initialization of output File
+2020-02-09 20:22:56.370 -- Overriding the System.out operation to output the result in  File 
+2020-02-09 20:22:56.372 -- Executing the commands 
+2020-02-09 20:22:56.372 -- Inside Add User method for Thomas
+2020-02-09 20:36:22.814 -- Start of Main class
+2020-02-09 20:36:22.817 -- Initialization of output File
+2020-02-09 20:36:22.817 -- Overriding the System.out operation to output the result in  File 
+2020-02-09 20:36:22.819 -- Executing the commands 
+2020-02-09 20:36:22.819 -- Inside Add User method for Thomas
+2020-02-09 20:36:23.432 -- Inside Add User method for AmirAli
+2020-02-09 20:36:23.668 -- Inside Add User method for Rabih
+2020-02-09 20:36:23.955 -- Inside Add List method for Code
+2020-02-09 20:36:23.956 -- Inside Add List method for Description
+2020-02-09 20:36:23.956 -- Inside Add List method for Misc
+2020-02-09 20:36:23.956 -- Inside Add Task method for Do Everything
+2020-02-09 20:36:23.959 -- Inside Edit Task method for Do Everything
+2020-02-09 20:36:23.960 -- Inside Assign Task method for Do Everything
+2020-02-09 20:36:23.960 -- Inside Print Task method for Do Everything
+2020-02-09 20:36:23.960 -- Inside Add Task method for Destroy code formatting
+2020-02-09 20:36:23.960 -- Inside Assign Task method for Destroy code formatting
+2020-02-09 20:36:23.961 -- Inside Add Task method for Write Description
+2020-02-09 20:36:23.961 -- Inside Assign Task method for Write Description
+2020-02-09 20:36:23.961 -- Inside Add Task method for Upload Assignment
+2020-02-09 20:36:23.961 -- Inside Complete Task method for Do Everything
+2020-02-09 20:36:23.961 -- Inside print Users by Performance method 
+2020-02-09 20:36:23.964 -- Inside print user by work load method
+2020-02-09 20:36:23.964 -- Inside user workload calculation method for AmirAli
+2020-02-09 20:36:23.964 -- Inside user workload calculation method for Thomas
+2020-02-09 20:36:23.964 -- Inside user workload calculation method for Rabih
+2020-02-09 20:36:23.965 -- Inside print unassigned tasks by priority
+2020-02-09 20:36:23.966 -- Inside Delete Task method for Upload Assignment
+2020-02-09 20:36:23.966 -- Inside print all unfinished tasks by priority
+2020-02-09 20:36:23.967 -- Inside Add Task method for Have fun
+2020-02-09 20:36:23.967 -- Inside move Task method for Have fun
+2020-02-09 20:36:23.967 -- Inside Print Task method for Have fun
+2020-02-09 20:36:23.967 -- Inside Print list method for Code
+2020-02-09 20:36:23.967 -- Inside print all lists method
+2020-02-09 20:36:23.968 -- Inside print User tasks for AmirAli
+2020-02-09 20:36:23.969 -- Inside print unassigned tasks by priority
+2020-02-09 20:36:23.969 -- Inside print all unfinished tasks by priority
+2020-02-09 20:36:43.576 -- Start of Main class
+2020-02-09 20:36:43.576 -- Initialization of output File
+2020-02-09 20:36:43.576 -- Overriding the System.out operation to output the result in  File 
+2020-02-09 20:36:43.578 -- Executing the commands 
+2020-02-09 20:36:43.578 -- Inside Add User method for Thomas
+2020-02-09 20:36:44.040 -- Inside Add User method for AmirAli
+2020-02-09 20:36:44.153 -- Inside Add User method for Rabih
+2020-02-09 20:36:44.267 -- Inside Add List method for Code
+2020-02-09 20:36:44.267 -- Inside Add List method for Description
+2020-02-09 20:36:44.268 -- Inside Add List method for Misc
+2020-02-09 20:36:44.268 -- Inside Add Task method for Do Everything
+2020-02-09 20:36:44.270 -- Inside Edit Task method for Do Everything
+2020-02-09 20:36:44.271 -- Inside Assign Task method for Do Everything
+2020-02-09 20:36:44.271 -- Inside Print Task method for Do Everything
+2020-02-09 20:36:44.271 -- Inside Add Task method for Destroy code formatting
+2020-02-09 20:36:44.272 -- Inside Assign Task method for Destroy code formatting
+2020-02-09 20:36:44.272 -- Inside Add Task method for Write Description
+2020-02-09 20:36:44.272 -- Inside Assign Task method for Write Description
+2020-02-09 20:36:44.272 -- Inside Add Task method for Upload Assignment
+2020-02-09 20:36:44.273 -- Inside Complete Task method for Do Everything
+2020-02-09 20:36:44.273 -- Inside print Users by Performance method 
+2020-02-09 20:36:44.275 -- Inside print user by work load method
+2020-02-09 20:36:44.276 -- Inside user workload calculation method for AmirAli
+2020-02-09 20:36:44.276 -- Inside user workload calculation method for Rabih
+2020-02-09 20:36:44.276 -- Inside user workload calculation method for Thomas
+2020-02-09 20:36:44.277 -- Inside print unassigned tasks by priority
+2020-02-09 20:36:44.277 -- Inside Delete Task method for Upload Assignment
+2020-02-09 20:36:44.278 -- Inside print all unfinished tasks by priority
+2020-02-09 20:36:44.278 -- Inside Add Task method for Have fun
+2020-02-09 20:36:44.279 -- Inside move Task method for Have fun
+2020-02-09 20:36:44.279 -- Inside Print Task method for Have fun
+2020-02-09 20:36:44.279 -- Inside Print list method for Code
+2020-02-09 20:36:44.280 -- Inside print all lists method
+2020-02-09 20:36:44.280 -- Inside print User tasks for AmirAli
+2020-02-09 20:36:44.280 -- Inside print unassigned tasks by priority
+2020-02-09 20:36:44.280 -- Inside print all unfinished tasks by priority
+2020-02-09 20:37:55.072 -- Start of Main class
+2020-02-09 20:37:55.073 -- Initialization of output File
+2020-02-09 20:37:55.073 -- Overriding the System.out operation to output the result in  File 
+2020-02-09 20:37:55.074 -- Executing the commands 
+2020-02-09 20:37:55.074 -- Inside Add User method for Thomas
+2020-02-09 20:37:55.617 -- Inside Add User method for AmirAli
+2020-02-09 20:37:55.904 -- Inside Add User method for Rabih
+2020-02-09 20:37:56.179 -- Inside Add List method for Code
+2020-02-09 20:37:56.180 -- Inside Add List method for Description
+2020-02-09 20:37:56.180 -- Inside Add List method for Misc
+2020-02-09 20:37:56.180 -- Inside Add Task method for Do Everything
+2020-02-09 20:37:56.183 -- Inside Edit Task method for Do Everything
+2020-02-09 20:37:56.183 -- Inside Assign Task method for Do Everything
+2020-02-09 20:37:56.184 -- Inside Print Task method for Do Everything
+2020-02-09 20:37:56.184 -- Inside Add Task method for Destroy code formatting
+2020-02-09 20:37:56.184 -- Inside Assign Task method for Destroy code formatting
+2020-02-09 20:37:56.184 -- Inside Add Task method for Write Description
+2020-02-09 20:37:56.185 -- Inside Assign Task method for Write Description
+2020-02-09 20:37:56.185 -- Inside Add Task method for Upload Assignment
+2020-02-09 20:37:56.185 -- Inside Complete Task method for Do Everything
+2020-02-09 20:37:56.185 -- Inside print Users by Performance method 
+2020-02-09 20:37:56.188 -- Inside print user by work load method
+2020-02-09 20:37:56.189 -- Inside user workload calculation method for AmirAli
+2020-02-09 20:37:56.189 -- Inside user workload calculation method for Thomas
+2020-02-09 20:37:56.189 -- Inside user workload calculation method for Rabih
+2020-02-09 20:37:56.190 -- Inside print unassigned tasks by priority
+2020-02-09 20:37:56.192 -- Inside Delete Task method for Upload Assignment
+2020-02-09 20:37:56.192 -- Inside print all unfinished tasks by priority
+2020-02-09 20:37:56.193 -- Inside Add Task method for Have fun
+2020-02-09 20:37:56.193 -- Inside move Task method for Have fun
+2020-02-09 20:37:56.193 -- Inside Print Task method for Have fun
+2020-02-09 20:37:56.193 -- Inside Print list method for Code
+2020-02-09 20:37:56.193 -- Inside print all lists method
+2020-02-09 20:37:56.194 -- Inside print User tasks for AmirAli
+2020-02-09 20:37:56.194 -- Inside print unassigned tasks by priority
+2020-02-09 20:37:56.194 -- Inside print all unfinished tasks by priority
+2020-02-09 21:28:27.261 -- Start of Main class
+2020-02-09 21:28:27.265 -- Executing the commands 
+2020-02-09 21:28:27.265 -- Inside Add User method for Thomas
+2020-02-09 21:28:27.877 -- Inside Add User method for AmirAli
+2020-02-09 21:28:27.994 -- Inside Add User method for Rabih
+2020-02-09 21:28:28.112 -- Inside Add List method for Code
+2020-02-09 21:28:28.112 -- Inside Add List method for Description
+2020-02-09 21:28:28.112 -- Inside Add List method for Misc
+2020-02-09 21:28:28.113 -- Inside Add Task method for Do Everything
+2020-02-09 21:28:28.114 -- Inside Edit Task method for Do Everything
+2020-02-09 21:28:28.115 -- Inside Assign Task method for Do Everything
+2020-02-09 21:28:28.115 -- Inside Print Task method for Do Everything
+2020-02-09 21:28:28.116 -- Inside Add Task method for Destroy code formatting
+2020-02-09 21:28:28.116 -- Inside Assign Task method for Destroy code formatting
+2020-02-09 21:28:28.116 -- Inside Add Task method for Write Description
+2020-02-09 21:28:28.116 -- Inside Assign Task method for Write Description
+2020-02-09 21:28:28.117 -- Inside Add Task method for Upload Assignment
+2020-02-09 21:28:28.117 -- Inside Complete Task method for Do Everything
+2020-02-09 21:28:28.117 -- Inside print Users by Performance method 
+2020-02-09 21:28:28.119 -- Inside print user by work load method
+2020-02-09 21:28:28.120 -- Inside user workload calculation method for AmirAli
+2020-02-09 21:28:28.120 -- Inside user workload calculation method for Rabih
+2020-02-09 21:28:28.120 -- Inside user workload calculation method for Thomas
+2020-02-09 21:28:28.121 -- Inside print unassigned tasks by priority
+2020-02-09 21:28:28.121 -- Inside Delete Task method for Upload Assignment
+2020-02-09 21:28:28.121 -- Inside print all unfinished tasks by priority
+2020-02-09 21:28:28.122 -- Inside Add Task method for Have fun
+2020-02-09 21:28:28.122 -- Inside move Task method for Have fun
+2020-02-09 21:28:28.122 -- Inside Print Task method for Have fun
+2020-02-09 21:28:28.123 -- Inside Print list method for Code
+2020-02-09 21:28:28.123 -- Inside print all lists method
+2020-02-09 21:28:28.123 -- Inside print User tasks for AmirAli
+2020-02-09 21:28:28.123 -- Inside print unassigned tasks by priority
+2020-02-09 21:28:28.123 -- Inside print all unfinished tasks by priority
+2020-02-09 21:30:13.731 -- Start of Main class
+2020-02-09 21:30:13.756 -- Executing the commands 
+2020-02-09 21:30:13.756 -- Inside Add User method for Thomas
+2020-02-09 21:30:14.353 -- Inside Add User method for AmirAli
+2020-02-09 21:30:14.457 -- Inside Add User method for Rabih
+2020-02-09 21:30:14.567 -- Inside Add List method for Code
+2020-02-09 21:30:14.567 -- Inside Add List method for Description
+2020-02-09 21:30:14.567 -- Inside Add List method for Misc
+2020-02-09 21:30:14.568 -- Inside Add Task method for Do Everything
+2020-02-09 21:30:14.568 -- Inside Edit Task method for Do Everything
+2020-02-09 21:30:14.568 -- Inside Assign Task method for Do Everything
+2020-02-09 21:30:14.570 -- Inside Print Task method for Do Everything
+2020-02-09 21:31:14.224 -- Start of Main class
+2020-02-09 21:31:14.245 -- Executing the commands 
+2020-02-09 21:31:14.246 -- Inside Add User method for Thomas
+2020-02-09 21:31:14.849 -- Inside Add User method for AmirAli
+2020-02-09 21:31:14.964 -- Inside Add User method for Rabih
+2020-02-09 21:31:15.076 -- Inside Add List method for Code
+2020-02-09 21:31:15.076 -- Inside Add List method for Description
+2020-02-09 21:31:15.076 -- Inside Add List method for Misc
+2020-02-09 21:31:15.076 -- Inside Add Task method for Do Everything
+2020-02-09 21:31:15.077 -- Inside Edit Task method for Do Everything
+2020-02-09 21:31:15.079 -- Inside Assign Task method for Do Everything
+2020-02-09 21:31:15.079 -- Inside Print Task method for Do Everything
+2020-02-09 21:31:41.411 -- Inside Print Task method for Do Everything
+2020-02-09 21:32:04.509 -- Start of Main class
+2020-02-09 21:32:04.510 -- Executing the commands 
+2020-02-09 21:32:04.511 -- Inside Add User method for Thomas
+2020-02-09 21:32:04.908 -- Inside Add User method for AmirAli
+2020-02-09 21:32:05.027 -- Inside Add User method for Rabih
+2020-02-09 21:32:05.138 -- Inside Add List method for Code
+2020-02-09 21:32:05.138 -- Inside Add List method for Description
+2020-02-09 21:32:05.139 -- Inside Add List method for Misc
+2020-02-09 21:32:05.139 -- Inside Add Task method for Do Everything
+2020-02-09 21:32:05.140 -- Inside Edit Task method for Do Everything
+2020-02-09 21:32:05.142 -- Inside Assign Task method for Do Everything
+2020-02-09 21:32:05.142 -- Inside Print Task method for Do Everything
+2020-02-09 21:32:05.143 -- Inside Add Task method for Destroy code formatting
+2020-02-09 21:32:05.143 -- Inside Assign Task method for Destroy code formatting
+2020-02-09 21:32:05.144 -- Inside Add Task method for Write Description
+2020-02-09 21:32:05.144 -- Inside Assign Task method for Write Description
+2020-02-09 21:32:05.144 -- Inside Add Task method for Upload Assignment
+2020-02-09 21:32:05.145 -- Inside Complete Task method for Do Everything
+2020-02-09 21:32:05.145 -- Inside print Users by Performance method 
+2020-02-09 21:32:05.148 -- Inside print user by work load method
+2020-02-09 21:32:05.148 -- Inside user workload calculation method for AmirAli
+2020-02-09 21:32:05.148 -- Inside user workload calculation method for Rabih
+2020-02-09 21:32:05.148 -- Inside user workload calculation method for Thomas
+2020-02-09 21:32:05.149 -- Inside print unassigned tasks by priority
+2020-02-09 21:32:05.150 -- Inside Delete Task method for Upload Assignment
+2020-02-09 21:32:05.150 -- Inside print all unfinished tasks by priority
+2020-02-09 21:32:05.150 -- Inside Add Task method for Have fun
+2020-02-09 21:32:05.150 -- Inside move Task method for Have fun
+2020-02-09 21:32:05.151 -- Inside Print Task method for Have fun
+2020-02-09 21:32:05.151 -- Inside Print list method for Code
+2020-02-09 21:32:05.151 -- Inside print all lists method
+2020-02-09 21:32:05.152 -- Inside print User tasks for AmirAli
+2020-02-09 21:32:05.152 -- Inside print unassigned tasks by priority
+2020-02-09 21:32:05.152 -- Inside print all unfinished tasks by priority
+2020-02-10 16:03:10.913 -- Start of Test class
+2020-02-10 16:03:10.916 -- Initialization of output File
+2020-02-10 16:03:10.916 -- Overriding the System.out operation to output the result in  File 
+2020-02-10 16:03:10.919 -- Executing the commands 
+2020-02-10 16:03:10.919 -- Inside Add User method for Prashanth
+2020-02-10 16:03:10.920 -- Inside the Select Query SQL operation to get User Names
+2020-02-10 16:03:11.480 -- Inside the Insert SQL operation
+2020-02-10 16:03:11.501 -- Inside Add User method for Thomas
+2020-02-10 16:03:11.502 -- Inside the Select Query SQL operation to get User Names
+2020-02-10 16:03:11.690 -- Inside Add User method for AmirAli
+2020-02-10 16:03:11.690 -- Inside the Select Query SQL operation to get User Names
+2020-02-10 16:03:11.802 -- Inside Add User method for Rabih
+2020-02-10 16:03:11.802 -- Inside the Select Query SQL operation to get User Names
+2020-02-10 16:03:11.913 -- Inside Add List method for Code
+2020-02-10 16:03:11.913 -- Inside Add List method for Description
+2020-02-10 16:03:11.914 -- Inside Add List method for Misc
+2020-02-10 16:03:11.914 -- Inside Add Task method for Do Everything
+2020-02-10 16:03:11.917 -- Inside Edit Task method for Do Everything
+2020-02-10 16:03:11.917 -- Inside Assign Task method for Do Everything
+2020-02-10 16:03:11.917 -- Inside user workload calculation method for Rabih
+2020-02-10 16:03:11.918 -- Inside the Update SQL operation to update user workload in DB
+2020-02-10 16:03:12.033 -- Inside Print Task method for Do Everything
+2020-02-10 16:03:12.033 -- Inside Add Task method for Destroy code formatting
+2020-02-10 16:03:12.033 -- Inside Assign Task method for Destroy code formatting
+2020-02-10 16:03:12.033 -- Inside user workload calculation method for Thomas
+2020-02-10 16:03:12.034 -- Inside the Update SQL operation to update user workload in DB
+2020-02-10 16:03:12.139 -- Inside Add Task method for Write Description
+2020-02-10 16:03:12.139 -- Inside Assign Task method for Write Description
+2020-02-10 16:03:12.139 -- Inside user workload calculation method for AmirAli
+2020-02-10 16:03:12.140 -- Inside the Update SQL operation to update user workload in DB
+2020-02-10 16:03:12.246 -- Inside Add Task method for Upload Assignment
+2020-02-10 16:03:12.247 -- Inside Complete Task method for Do Everything
+2020-02-10 16:03:12.247 -- Inside print Users by Performance method 
+2020-02-10 16:03:12.250 -- Inside print user by work load method
+2020-02-10 16:03:12.250 -- Inside user workload calculation method for AmirAli
+2020-02-10 16:03:12.250 -- Inside user workload calculation method for Prashanth
+2020-02-10 16:03:12.250 -- Inside user workload calculation method for Rabih
+2020-02-10 16:03:12.251 -- Inside user workload calculation method for Thomas
+2020-02-10 16:03:12.251 -- Inside print unassigned tasks by priority
+2020-02-10 16:03:12.252 -- Inside Delete Task method for Upload Assignment
+2020-02-10 16:03:12.252 -- Inside user workload calculation method for Unassigned
+2020-02-10 16:03:12.252 -- Inside the Update SQL operation to update user workload in DB
+2020-02-10 16:03:12.422 -- Inside print all unfinished tasks by priority
+2020-02-10 16:03:12.423 -- Inside Add Task method for Have fun
+2020-02-10 16:03:12.425 -- Inside move Task method for Have fun
+2020-02-10 16:03:12.425 -- Inside Print Task method for Have fun
+2020-02-10 16:03:12.426 -- Inside Print list method for Code
+2020-02-10 16:03:12.426 -- Inside print all lists method
+2020-02-10 16:03:12.426 -- Inside print User tasks for AmirAli
+2020-02-10 16:03:12.426 -- Inside print unassigned tasks by priority
+2020-02-10 16:03:12.427 -- Inside print all unfinished tasks by priority
+2020-02-10 16:03:12.427 -- Inside Delete list method for Code
+2020-02-10 16:03:12.427 -- Inside user workload calculation method for Unassigned
+2020-02-10 16:03:12.427 -- Inside the Update SQL operation to update user workload in DB
+2020-02-10 16:03:12.540 -- Inside user workload calculation method for Thomas
+2020-02-10 16:03:12.540 -- Inside the Update SQL operation to update user workload in DB
+2020-02-10 16:03:12.650 -- Inside user workload calculation method for Rabih
+2020-02-10 16:03:12.651 -- Inside the Update SQL operation to update user workload in DB
+2020-02-10 16:03:12.752 -- Inside print all lists method
+2020-02-10 16:03:12.752 -- Inside print user by work load method
+2020-02-10 16:03:12.752 -- Inside user workload calculation method for AmirAli
+2020-02-10 16:03:12.753 -- Inside user workload calculation method for Prashanth
+2020-02-10 16:03:12.754 -- Inside user workload calculation method for Rabih
+2020-02-10 16:03:12.754 -- Inside user workload calculation method for Thomas
